@@ -1,4 +1,5 @@
 # Email Spam Detection using NLP and Machine Learning
+End-to-end NLP and machine learning project for classifying messages as spam or ham using text preprocessing and supervised learning models.
 
 ## Overview
 This project builds an end-to-end **spam email classifier** using Natural Language Processing (NLP) and supervised machine learning techniques. The notebook demonstrates how to preprocess raw email text, convert it into numerical features using vectorization, and train classification models to distinguish between **spam** and **ham (non-spam)** emails.
