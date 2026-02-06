@@ -84,3 +84,5 @@ Trained and evaluated multiple classifiers:
 - Naive Bayes provided strong baseline performance
 - Linear SVM / Logistic Regression achieved higher precision and recall
 - The final model effectively distinguishes spam from ham messages
+
+https://github.com/user-attachments/assets/8cf3a63a-fe94-433f-a31e-0bad8c85f12e
